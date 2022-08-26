@@ -1,0 +1,17 @@
+.mi_alineacion {
+    height: 90vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.color_contador {
+    color: violet;
+    font-size: 48px;
+}
+
+.color_numero {
+    color: blue;
+    font-size: 68px;
+}
